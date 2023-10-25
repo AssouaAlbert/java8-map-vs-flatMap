@@ -35,7 +35,7 @@ public class NthHighestSalaryDemo
 
         // System.out.println(getNthHighestSalary(2, map2));
 
-        System.out.println(getDynamicNthHighestSalary(3, map1));
+        System.out.println(getDynamicNthHighestSalaryCustom(3, map1));
 
     }
 
